@@ -1,0 +1,35 @@
+.yazi {
+    position:relative;
+    
+    padding: 15px 30px;
+    color:	#ffffff;
+    letter-spacing: 4px;
+   
+    font-size: 24px;
+    overflow: hidden;
+    transition: 0.2s;
+}
+.yazi:hover{
+    color: #ffffff;
+    background: 	#006eff;
+    box-shadow: 0 0 10px 	#006eff, 0 0 40px 	#006eff, 0 0 80px 	#006eff;
+    transition-delay: 0.5s;
+}
+.text{
+    position:relative;
+    
+    padding: 15px 30px;
+    color:	#ffffff;
+    letter-spacing: 4px;
+   
+    font-size: 24px;
+    overflow: hidden;
+    transition: 0.2s;
+
+}
+.text:hover{
+    color: #ffffff;
+    background: 	#006eff;
+    box-shadow: 0 0 10px 	#006eff, 0 0 40px 	#006eff, 0 0 80px 	#006eff;
+    transition-delay: 0.5s;
+}
